@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "asciichart": "^1.5.25",
+    "figlet": "^1.5.0",
+    "fs": "^0.0.1-security",
+    "kucoin-node-sdk": "^1.0.3",
+    "readline": "^1.3.0",
+    "util": "^0.12.3"
+  }
+}
