@@ -219,7 +219,7 @@ const main = async () => {
   process.stdout.write("\u001b[3J\u001b[2J\u001b[1J");console.clear();
 
   console.log('\n--------------------------------------------------------------------------------------\n');
-  console.log('Stadistics ['+getDate()+']\n');
+  console.log('Statistics ['+getDate()+']\n');
   if (autoplay) {
     console.log('updated every '+parseFloat(updateTime/60000)+' minutes\n');
   }
